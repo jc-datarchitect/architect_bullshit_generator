@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/bb94646e-fce9-47f5-b3d2-0887151f98e5" width="50%" alt="ABG Logo">
+  <img src="https://github.com/user-attachments/assets/274f1ad8-55f8-4866-8242-6ab293d1e87b" width="70%" alt="ABG Logo">
 
-  <h1>ABG — Architect Bullshit Generator</h1>
+  <h1>Architect Bullshit Generator</h1>
 
   <p>
     <i>
