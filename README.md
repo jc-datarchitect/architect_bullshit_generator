@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/274f1ad8-55f8-4866-8242-6ab293d1e87b" width="70%" alt="ABG Logo">
+  <img src="https://github.com/user-attachments/assets/274f1ad8-55f8-4866-8242-6ab293d1e87b" width="60%" alt="ABG Logo">
 
   <h1>Architect Bullshit Generator</h1>
 
