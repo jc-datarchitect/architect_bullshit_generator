@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/bb94646e-fce9-47f5-b3d2-0887151f98e5" width="35%" alt="ABG Logo">
+  <img src="https://github.com/user-attachments/assets/bb94646e-fce9-47f5-b3d2-0887151f98e5" width="50%" alt="ABG Logo">
 
   <h1>ABG — Architect Bullshit Generator</h1>
 
@@ -26,9 +26,6 @@
 </div>
 
 ---
-
-<img width="952" height="417" alt="abg logo" src="https://github.com/user-attachments/assets/bb94646e-fce9-47f5-b3d2-0887151f98e5" />
-
 
 ## Overview
 
