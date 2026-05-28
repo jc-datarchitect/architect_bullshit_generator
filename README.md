@@ -52,9 +52,9 @@ ABG generates architectural statements across three escalating levels of discour
 ## Example Outputs
 
 ### 🔵 LEVEL 1 — Architecture Student
-* The roof organizes the transparency.
-* Within the envelope, the depth appears.
-* The rhythm is part of the threshold.
+* The threshold organizes the space.
+* Within the rhythm, the program appears.
+* The composition defines the boundary.
 
 ### 🟡 LEVEL 2 — Pretentious Architecture Professor
 * The permeable boundary negotiates relational field.
@@ -64,4 +64,4 @@ ABG generates architectural statements across three escalating levels of discour
 ### 🔴 LEVEL 3 — Pritzker Jury Mode
 * The speculative territory transcends the material logic of radical indeterminacy.
 * The semiotic field interrogates the ontological limits of hyper-contextuality.
-* Infrastructural poetics is recontextualized through the epistemic condition of the systemic environment.
+* The post-material void transcends the material logic of non-linear spatiality.
