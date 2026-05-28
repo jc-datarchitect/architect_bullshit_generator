@@ -51,9 +51,17 @@ ABG generates architectural statements across three escalating levels of discour
 
 ## Example Outputs
 
-```text
-The permeable boundary negotiates relational field.
+### 🔵 LEVEL 1 — Architecture Student
+* The roof organizes the transparency.
+* Within the envelope, the depth appears.
+* The rhythm is part of the threshold.
 
-Within the discursive space, speculative spatiality collapses into discourse.
+### 🟡 LEVEL 2 — Pretentious Architecture Professor
+* The permeable boundary negotiates relational field.
+* Threshold condition reconfigures the interstitial space.
+* The spatial hierarchy reinterprets hybridity.
 
-The speculative territory transcends the material logic of radical indeterminacy.
+### 🔴 LEVEL 3 — Pritzker Jury Mode
+* The speculative territory transcends the material logic of radical indeterminacy.
+* The semiotic field interrogates the ontological limits of hyper-contextuality.
+* Infrastructural poetics is recontextualized through the epistemic condition of the systemic environment.
