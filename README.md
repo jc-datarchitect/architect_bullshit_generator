@@ -57,7 +57,7 @@ ABG generates architectural statements across three escalating levels of discour
 * The composition defines the boundary.
 
 ### 🟡 LEVEL 2 — Pretentious Architecture Professor
-* The permeable boundary negotiates relational field.
+* Within the transitional space, permeability is articulated.
 * The public realm reconfigures the interstitial space.
 * The spatial hierarchy reinterprets hybridity.
 
