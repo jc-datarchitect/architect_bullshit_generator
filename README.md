@@ -29,9 +29,12 @@
 
 ## Overview
 
-ABG (Architect Bullshit Generator) is a satirical text generator designed to emulate the inflated, pretentious, and often absurd language commonly found in architectural discourse.
+ABG (Architect Bullshit Generator) is a satirical text generator designed to emulate the inflated, pretentious, and occasionally absurd language commonly found in architectural discourse.
+
+Created by an architect fully immersed in the discipline, the project is ultimately an exercise in self-parody — a playful critique of the theoretical excesses, conceptual overstatements, and linguistic acrobatics that frequently appear in architecture schools, jury reviews, exhibitions, and design publications.
 
 The project combines:
+
 - procedural text generation
 - curated architectural jargon
 - discourse parody
