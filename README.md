@@ -62,6 +62,6 @@ ABG generates architectural statements across three escalating levels of discour
 * The spatial hierarchy reinterprets hybridity.
 
 ### 🔴 LEVEL 3 — Pritzker Jury Mode
-* The speculative territory transcends the material logic of radical indeterminacy.
+* radical indeterminacy is recontextualized through the epistemic condition of the simulated space.
 * The semiotic field interrogates the ontological limits of hyper-contextuality.
 * The post-material void transcends the material logic of non-linear spatiality.
