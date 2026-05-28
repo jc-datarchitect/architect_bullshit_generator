@@ -58,7 +58,7 @@ ABG generates architectural statements across three escalating levels of discour
 
 ### 🟡 LEVEL 2 — Pretentious Architecture Professor
 * The permeable boundary negotiates relational field.
-* Threshold condition reconfigures the interstitial space.
+* The public realm reconfigures the interstitial space.
 * The spatial hierarchy reinterprets hybridity.
 
 ### 🔴 LEVEL 3 — Pritzker Jury Mode
