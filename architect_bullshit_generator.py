@@ -413,25 +413,12 @@ def generate_sentence(level):
 
     return sentence
 
-import streamlit as st
-import pandas as pd
-import random
-from PIL import Image
-
-# ------------------------------
-# 0 IMPORTS & DATA (Concepts, Verbs, Nouns)
-# ------------------------------
-# [Aquí mantienes tus DataFrames de abstract_concepts, verbs, spatial_nouns, 
-#  structures_lvl1, structures_lvl2, structures_lvl3 y las funciones 
-#  weighted_sample y generate_sentence que ya tienes]
-# (He omitido las listas largas para que el bloque no sea eterno, 
-#  pero asegúrate de tener todo lo que tenías antes en tu archivo)
-
-# ... [INSERTA AQUÍ TODO TU CÓDIGO DE DATOS Y FUNCIONES] ...
-
 # ------------------------------
 # 11 STREAMLIT (CÓDIGO DE LA INTERFAZ)
 # ------------------------------
+import streamlit as st
+from PIL import Image
+
 st.set_page_config(page_title="Architect Bullshit Generator", page_icon="🏗️")
 
 # Cargar y mostrar el logo
