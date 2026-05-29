@@ -57,7 +57,9 @@ architect-bs-generator/
 
 ---
 
-ABG generates architectural statements across three escalating levels of discourse:
+## Technical Approach
+
+The project is built using **Python** and deployed via **Streamlit Cloud**. It leverages procedural text generation logic to construct syntactically coherent—but semantically empty—architectural statements based on three escalating levels of discourse:
 
 - 🔵 Architecture Student
 - 🟡 Pretentious Architecture Professor
