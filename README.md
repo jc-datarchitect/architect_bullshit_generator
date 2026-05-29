@@ -83,3 +83,34 @@ The project is built using **Python** and deployed via **Streamlit Cloud**. It l
 * radical indeterminacy is recontextualized through the epistemic condition of the simulated space.
 * The semiotic field interrogates the ontological limits of hyper-contextuality.
 * The post-material void transcends the material logic of non-linear spatiality.
+
+---
+
+## Contribute to the Bullshit
+
+The architectural discourse is vast, and there is always room for more nonsense. I invite you to help expand the ABG archive! Whether you want to add new jargon, create monographic packs for specific "Starchitects," or propose a new, even more pretentious level, your contributions are welcome.
+
+**How to participate:**
+1. **Star the repo:** If you enjoyed the project, show some love with a star! 🌟
+2. **Open an Issue:** Suggest a new theme, a specific architect's recurring buzzwords, or a missing level of academic absurdity.
+3. **Submit a Pull Request:** If you're feeling inspired, fork the repo and add your own "bullshit modules" directly to the code.
+
+Let’s keep the academic inflation growing together.
+
+---
+
+## Contact & Portfolio
+
+**Javier Cristóbal Fernández**  
+*Architect & Project Manager ➔ Business Intelligence & Data Analytics*
+
+<a href="mailto:jcristobalfdez@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+<a href="https://github.com/JC-datarchitect?tab=repositories">
+  <img src="https://img.shields.io/badge/Check_My_Repos-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
+
+
+
