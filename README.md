@@ -41,6 +41,22 @@ The project combines:
 - minimalist interface design
 - architecture culture satire
 
+---
+
+## Project Structure
+
+The project follows a clean, modular structure optimized for deployment on Streamlit Cloud:
+
+```text
+architect-bs-generator/
+├── architect_bullshit_generator.py # Main application logic and UI
+├── abg_logo.jpg                    # Project branding
+├── requirements.txt                # Dependency specifications
+└── README.md                       # Project documentation
+```
+
+---
+
 ABG generates architectural statements across three escalating levels of discourse:
 
 - 🔵 Architecture Student
