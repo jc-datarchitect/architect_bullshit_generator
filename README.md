@@ -48,7 +48,7 @@ The project combines:
 The project follows a clean, modular structure optimized for deployment on Streamlit Cloud:
 
 ```text
-architect-bs-generator/
+architect-bullshit-generator/
 ├── architect_bullshit_generator.py # Main application logic and UI
 ├── abg_logo.jpg                    # Project branding
 ├── requirements.txt                # Dependency specifications
