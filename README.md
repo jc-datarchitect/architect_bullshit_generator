@@ -49,10 +49,13 @@ The project follows a clean, modular structure optimized for deployment on Strea
 
 ```text
 architect-bullshit-generator/
-├── architect_bullshit_generator.py # Main application logic and UI
-├── abg_logo.jpg                    # Project branding
+├── .gitignore                      # Git configuration
+├── LICENSE                         # License information
+├── CONTRIBUTING.md                 # Guidelines for contributing bullshit
+├── README.md                       # Project documentation
 ├── requirements.txt                # Dependency specifications
-└── README.md                       # Project documentation
+├── architect_bullshit_generator.py # Main application logic and UI
+└── abg_logo.jpg                    # Project branding
 ```
 
 ---
